@@ -24,9 +24,7 @@ Se evaluaron múltiples modelos bajo la métrica **MAPE (Mean Absolute Percentag
 ## 📂 Estructura del Repositorio
 
 * `data/`: Datasets procesados y normalizados.
-* `notebooks/`: Jupyter Notebooks con el EDA y el entrenamiento de los modelos.
-* `scripts/`: Código fuente para el Feature Engineering y el bucle autorregresivo de predicción.
-* `images/`: Diagramas del pipeline, importancia de variables y mapas de riesgo.
+* `scripts/`: Código fuente de los algoritmos.
 
 ## 🛠️ Instalación y Uso
 
