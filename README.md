@@ -1,4 +1,4 @@
-readme_content = """# Predicción de la Delincuencia en Barcelona: Enfoque Multidelictivo para 2026
+# Predicción de la Delincuencia en Barcelona: Enfoque Multidelictivo para 2026
 
 Este repositorio contiene el código fuente, los modelos y el análisis desarrollado para el proyecto de investigación sobre la criminalidad urbana en Barcelona, utilizando técnicas de Machine Learning para proyectar escenarios en 2026.
 
