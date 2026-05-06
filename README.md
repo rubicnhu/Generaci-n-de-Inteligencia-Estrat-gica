@@ -19,7 +19,7 @@ Se evaluaron múltiples modelos bajo la métrica **MAPE (Mean Absolute Percentag
 | **LightGBM** | **5,86 %** | **Modelo Definitivo** (Optimizado con Leaf-wise growth) |
 | SVM (Support Vector Machines) | 7,17 % | Rendimiento competitivo tras Grid Search |
 | XGBoost / Random Forest | 7,00 - 10,00 % | Algoritmos base |
-| TFT (Temporal Fusion Transformer) | ~20,00 % | Ineficaz por volumen de datos limitado |
+| CNN (Convolutional neural network) | ~20,00 % | Ineficaz por volumen de datos limitado |
 
 ## 📂 Estructura del Repositorio
 
